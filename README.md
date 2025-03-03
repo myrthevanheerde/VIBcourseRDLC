@@ -1,5 +1,4 @@
 <!--
-
 author:   name last_name
 email:    training@vib.de
 version:  2.0.0
@@ -44,7 +43,8 @@ edition:  1st
 </script>
 @end
 
-orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"-->
+orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"
+-->
 
 # Course Title
 
