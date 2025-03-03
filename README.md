@@ -77,30 +77,12 @@ orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"-->
   "author": [
     {
       "@type": "Person",
-      "name": "Bruna Piereck"
+      "name": "Name Last-Name"
     },
     {
       "@type": "Person",
-      "name": "Olivier Sand"
+     "name": "Name Last-Name"
     },
-    {
-      "@type": "Person",
-      "name": "Alexander Botzki"
-    }
-  ],
-  "contributor": [
-    {
-      "@type": "Person",
-      "name": "Yasmine Maes"
-    },
-    {
-      "@type": "Person",
-      "name": "Finn Bacall"
-    },
-    {
-      "@type": "Person",
-      "name": "Munazah Andrabi"
-    }
   ]
 }
 ```
