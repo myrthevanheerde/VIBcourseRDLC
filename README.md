@@ -1,6 +1,6 @@
 <!--
 author:   name last_name
-email:    training@vib.de
+email:    trainingandconferences@vib.be
 version:  2.0.0
 language: en
 narrator: UK English Female
