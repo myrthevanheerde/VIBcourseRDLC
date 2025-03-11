@@ -48,63 +48,6 @@ orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"
 
 # Course Title
 
-```json   @JSONLD
-{
-  "@context": "https://schema.org/",
-  "@type": "LearningResource",
-  "@id": "https://elixir-europe-training.github.io/ELIXIR-TrP-TeSS/",
-  "http://purl.org/dc/terms/conformsTo": {
-    "@type": "CreativeWork",
-    "@id": "https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE"
-  },
-  "description": "TeSS, how can I help you? This is our interactive hands-on course about efficient use of the ELIXIR TeSS platform.",
-  "keywords": "FAIR, OPEN, Bioinformatics, Teaching, TeSS",
-  "name": "TeSS, how can I help you?",
-  "license": "https://creativecommons.org/licenses/by/4.0/",
-  "educationalLevel": "beginner",
-  "competencyRequired": "none",
-  "teaches": [
-    "search events and material in TeSS via direct and faceted search",
-    "add manually and automatically events and material to TeSS",
-    "extract events and material from TeSS by using TeSS widgets"
-  ],
-  "audience": "training providers",
-  "inLanguage": "en-US",
-  "learningResourceType": [
-    "tutorial"
-  ],
-  "author": [
-    {
-      "@type": "Person",
-      "name": "Bruna Piereck"
-    },
-    {
-      "@type": "Person",
-      "name": "Olivier Sand"
-    },
-    {
-      "@type": "Person",
-      "name": "Alexander Botzki"
-    }
-  ],
-  "contributor": [
-    {
-      "@type": "Person",
-      "name": "Yasmine Maes"
-    },
-    {
-      "@type": "Person",
-      "name": "Finn Bacall"
-    },
-    {
-      "@type": "Person",
-      "name": "Munazah Andrabi"
-    }
-  ]
-}
-```
-
-
 <section>
 
 Hello and welcome to our @tutor workshop! We are very happy to have you here.
@@ -266,4 +209,61 @@ Authors: @[orcid(Alexander Botzki)](https://orcid.org/0000-0001-6691-4233), @[or
 Technical Editors: Alexander Botzki
 
 License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+
+```json   @JSONLD
+{
+  "@context": "https://schema.org/",
+  "@type": "LearningResource",
+  "@id": "https://elixir-europe-training.github.io/ELIXIR-TrP-TeSS/",
+  "http://purl.org/dc/terms/conformsTo": {
+    "@type": "CreativeWork",
+    "@id": "https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE"
+  },
+  "description": "TeSS, how can I help you? This is our interactive hands-on course about efficient use of the ELIXIR TeSS platform.",
+  "keywords": "FAIR, OPEN, Bioinformatics, Teaching, TeSS",
+  "name": "TeSS, how can I help you?",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "educationalLevel": "beginner",
+  "competencyRequired": "none",
+  "teaches": [
+    "search events and material in TeSS via direct and faceted search",
+    "add manually and automatically events and material to TeSS",
+    "extract events and material from TeSS by using TeSS widgets"
+  ],
+  "audience": "training providers",
+  "inLanguage": "en-US",
+  "learningResourceType": [
+    "tutorial"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Bruna Piereck"
+    },
+    {
+      "@type": "Person",
+      "name": "Olivier Sand"
+    },
+    {
+      "@type": "Person",
+      "name": "Alexander Botzki"
+    }
+  ],
+  "contributor": [
+    {
+      "@type": "Person",
+      "name": "Yasmine Maes"
+    },
+    {
+      "@type": "Person",
+      "name": "Finn Bacall"
+    },
+    {
+      "@type": "Person",
+      "name": "Munazah Andrabi"
+    }
+  ]
+}
+```
+
 
