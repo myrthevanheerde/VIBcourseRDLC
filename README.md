@@ -208,7 +208,7 @@ Authors: @[orcid(Alexander Botzki)](https://orcid.org/0000-0001-6691-4233), @[or
 
 Technical Editors: Alexander Botzki
 
-License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+License: [![CC BY SA](images/cc-by-sa.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
 ```json   @JSONLD
 {
@@ -265,5 +265,6 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
