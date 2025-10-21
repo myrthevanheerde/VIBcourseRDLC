@@ -46,7 +46,7 @@ edition:  1st
 orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"
 -->
 
-# Introducing the Research Data Life Cycle and mapping FAIR aspects to each stage
+# Introducing the Research Data Life Cycle
 
 <section>
 
@@ -259,6 +259,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
