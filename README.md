@@ -138,7 +138,7 @@ Schedule day 1:
 
 Authors
 
-- [Myrthe I. van Heerde](@[orcid](https://orcid.org/0009-0006-2198-0900)
+- Myrthe I. van Heerde(@[orcid](https://orcid.org/0009-0006-2198-0900))
 
 Contributors
 
@@ -259,6 +259,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
