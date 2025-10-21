@@ -71,7 +71,7 @@ This is the {{workshop_edition}} edition of this workshop, jointly organised by 
 
 - The first session (12 & 13 October 2023) is dedicated to Containers (Docker & Singularity) which are great tools for code portability and reproducibility of your analysis. You will learn how to use containers and how to build a container from scratch, share it with others and how to re-use and modify existing containers.
 
-The **presentation** which goes alongside this material can be found [here](link).
+The **presentation** which goes alongside this material can be found [here](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/training_material_template/refs/heads/main/supplementary/chapter_01_presentation.md).
 
 ## Proposed Schedule
 
@@ -127,7 +127,7 @@ Schedule day 1:
 >
 > <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
 > 
-> 1. [Exercises and solutions](https://github.com/vibbits/nextflow-workshop)
+> 1. [Exercises and solutions]()
 > 2. [Slides]()  
 > 
 > <i class="fa fa-life-ring"></i> **Acknowledgement**:
@@ -265,5 +265,6 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
