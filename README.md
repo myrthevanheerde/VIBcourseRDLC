@@ -46,7 +46,7 @@ edition:  1st
 orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"
 -->
 
-# Testing
+# Introducing the Research Data Life Cycle and mapping FAIR aspects to each stage
 
 <section>
 
@@ -98,26 +98,20 @@ Schedule day 1:
 > <i class="fa fa-arrow-left"></i> **Prerequisites**  
 > To be able to follow this course, learners should have knowledge in:
 > 
-> 1. Basic knowlegde of HTML  
-> 2. Basic knowledge of ...
-> 3. Being comfortable working with ....  
+> 1. Basic knowlegde of research data management
+> 2. Interested in FAIR data
+> 
 >
 > <i class="fa fa-bookmark"></i> **Description**  This course consist of .....
 > 
 > <i class="fa fa-arrow-right"></i> **Learning Outcomes:**  
 > By the end of the course, learners will be able to:
 >
-> 1. Define what ..... [Remembering] 
+> 1. Explain the different stages of the Research Data Life Cycle (RDLC) [Understanding] 
 >
-> 2. Discuss and explain ..... [Understanding] 
+> 2. Describe how these stages relate to the different aspects of FAIR [Understanding] 
 >
-> 3. Apply and modify ..... [Applying] 
 >
-> 4. Compare ..... [Analysing] 
->
-> 5. Evaluate and select ..... [Evaluating] 
->
-> 6. Create and integrate ..... [Creating]
 >
 >> Check more about [Bloom's taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) to categorize the levels in educational goals
 >
@@ -144,7 +138,7 @@ Schedule day 1:
 
 Authors
 
-- [Name](@[orcid](https://orcid.org/XXXX)
+- [Myrthe I. van Heerde](@[orcid](https://orcid.org/0009-0006-2198-0900)
 
 Contributors
 
@@ -265,6 +259,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
