@@ -54,6 +54,14 @@ Hello and welcome to our @tutor workshop! We are very happy to have you here.
 
 This is the @edition edition of this workshop, jointly organised by your organisation and ELIXIR.
 
+## Training Video
+
+[Watch on YouTube](https://www.youtube.com/shorts/WAF7Z7KssQY))
+
+<iframe width="800" height="450" src="(https://www.youtube.com/shorts/WAF7Z7KssQY)" frameborder="0" allowfullscreen></iframe>
+
+> “Welcome to the Introduction of the HemaFAIR project”
+
 <img src="./images/globes/41920.jpg" width="350" align="center"/>
 
 Example image to ilustrate the front page of the material. This image was [Designed by macrovector / Freepik](https://www.freepik.com/free-vector/globe-earth-world-icons-vector-white-black_10601425.htm#fromView=author&page=1&position=27&uuid=726a85e1-abc9-4f55-a242-bdb7cd5733f1)
@@ -259,6 +267,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
