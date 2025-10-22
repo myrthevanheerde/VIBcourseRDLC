@@ -62,14 +62,11 @@ This is the @edition edition of this workshop, jointly organised by your organis
 
 # 3-minute Tour: Introducing the Research Data Life Cycle 
 
-The **presentation** which goes alongside this material can be found [here]((https://docs.google.com/presentation/d/19XTgEvhuI9aHaE_nkaWphR4-HyRl0LjM/edit?usp=sharing&ouid=109714325185346343887&rtpof=true&sd=true)).
+The **presentation** which goes alongside this material can be found [here](https://docs.google.com/presentation/d/19XTgEvhuI9aHaE_nkaWphR4-HyRl0LjM/edit?usp=sharing&ouid=109714325185346343887&rtpof=true&sd=true)
 
 <iframe
   src="https://docs.google.com/presentation/d/e/2PACX-1vSpwnsWhgGca3c1azGZOY3ZltuiOVa57p-VLgtcSp2zdHlT6Rlj3U1pWjxlXfctHQ/pubembed?start=false&loop=false&delayms=3000"
-  frameborder="0"
-  width="800"
-  height="480"
-  allowfullscreen>
+  frameborder="0" width="800" height="480" allowfullscreen>
 </iframe>
 
 
@@ -284,6 +281,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
