@@ -61,6 +61,8 @@ This is the @edition edition of this workshop, jointly organised by your organis
 [Watch on YouTube](https://www.youtube.com/shorts/WAF7Z7KssQY)
 
 !?[Watch on YouTube](https://www.youtube.com/embed/WAF7Z7KssQY)
+!?[Watch on YouTube](https://www.youtube.com/watch?v=WAF7Z7KssQY)
+
 ??[Watch on YouTube](https://www.youtube.com/watch?v=WAF7Z7KssQY)
 
 
@@ -269,6 +271,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
