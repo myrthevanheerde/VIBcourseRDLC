@@ -47,6 +47,7 @@ orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"
 -->
 
 # FAIR Training Materials in LEARNFAIR & HemaFAIR
+[![DOI](https://sandbox.zenodo.org/badge/1080461403.svg)](https://handle.test.datacite.org/10.5072/zenodo.389622)
 
 <section>
 
@@ -281,6 +282,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
