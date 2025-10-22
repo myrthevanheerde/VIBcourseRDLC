@@ -46,7 +46,7 @@ edition:  1st
 orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"
 -->
 
-# FAIR trainging materials in LEARNFAIR & HemaFAIR
+# FAIR training materials in LEARNFAIR & HemaFAIR
 
 <section>
 
@@ -282,6 +282,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
