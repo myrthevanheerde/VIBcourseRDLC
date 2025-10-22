@@ -46,7 +46,7 @@ edition:  1st
 orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"
 -->
 
-# Introducing the Research Data Life Cycle
+# FAIR trainging materials in LEARNFAIR & HemaFAIR
 
 <section>
 
@@ -54,11 +54,28 @@ Hello and welcome to our @tutor workshop! We are very happy to have you here.
 
 This is the @edition edition of this workshop, jointly organised by your organisation and ELIXIR.
 
-## Training Video
+## Training Video HemaFAIR
 
 > “Welcome to the Introduction of the HemaFAIR project”
 
 !?[](https://www.youtube.com/watch?v=WAF7Z7KssQY)
+
+# 3-minute Tour: Introducing the Research Data Life Cycle 
+
+The **presentation** which goes alongside this material can be found [here](https://docs.google.com/presentation/d/19XTgEvhuI9aHaE_nkaWphR4-HyRl0LjM/edit?usp=sharing&ouid=109714325185346343887&rtpof=true&sd=true).
+
+<iframe
+  src="https://docs.google.com/presentation/d/e/2PACX-1v19XTgEvhuI9aHaE_nkaWphR4-HyRl0LjM/embed?start=false&loop=false&delayms=3000"
+  frameborder="0"
+  width="800"
+  height="480"
+  allowfullscreen>
+</iframe>
+
+
+
+
+
 
 <img src="./images/globes/41920.jpg" width="350" align="center"/>
 
@@ -76,16 +93,6 @@ Welcome to our {{workshop_name}} workshop! We are very happy to have you here.
 This is the {{workshop_edition}} edition of this workshop, jointly organised by the VIB Bioinformatics Core and ELIXIR Belgium.
 
 - The first session (12 & 13 October 2023) is dedicated to Containers (Docker & Singularity) which are great tools for code portability and reproducibility of your analysis. You will learn how to use containers and how to build a container from scratch, share it with others and how to re-use and modify existing containers.
-
-The **presentation** which goes alongside this material can be found [here](https://docs.google.com/presentation/d/19XTgEvhuI9aHaE_nkaWphR4-HyRl0LjM/edit?usp=sharing&ouid=109714325185346343887&rtpof=true&sd=true).
-
-<iframe
-  src="https://docs.google.com/presentation/d/e/2PACX-1v19XTgEvhuI9aHaE_nkaWphR4-HyRl0LjM/embed?start=false&loop=false&delayms=3000"
-  frameborder="0"
-  width="800"
-  height="480"
-  allowfullscreen>
-</iframe>
 
 
 
@@ -275,6 +282,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
