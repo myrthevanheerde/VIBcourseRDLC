@@ -64,13 +64,7 @@ This is the @edition edition of this workshop, jointly organised by your organis
 
 The **presentation** which goes alongside this material can be found [here]((https://docs.google.com/presentation/d/19XTgEvhuI9aHaE_nkaWphR4-HyRl0LjM/edit?usp=sharing&ouid=109714325185346343887&rtpof=true&sd=true)).
 
-<iframe
-  src="https://docs.google.com/presentation/d/e/2PACX-1v19XTgEvhuI9aHaE_nkaWphR4-HyRl0LjM/embed?start=false&loop=false&delayms=3000"
-  frameborder="0"
-  width="800"
-  height="480"
-  allowfullscreen>
-</iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSpwnsWhgGca3c1azGZOY3ZltuiOVa57p-VLgtcSp2zdHlT6Rlj3U1pWjxlXfctHQ/pubembed?start=true&loop=true&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 
@@ -283,6 +277,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
