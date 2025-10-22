@@ -65,7 +65,7 @@ This is the @edition edition of this workshop, jointly organised by your organis
 The **presentation** which goes alongside this material can be found [here]((https://docs.google.com/presentation/d/19XTgEvhuI9aHaE_nkaWphR4-HyRl0LjM/edit?usp=sharing&ouid=109714325185346343887&rtpof=true&sd=true)).
 
 <iframe
-  src="https://docs.google.com/presentation/d/e/2PACX-1v19XTgEvhuI9aHaE_nkaWphR4-HyRl0LjM/embed?start=false&loop=false&delayms=3000"
+  src="https://docs.google.com/presentation/d/19XTgEvhuI9aHaE_nkaWphR4-HyRl0LjM/edit?usp=sharing&ouid=109714325185346343887&rtpof=true&sd=true"
   frameborder="0"
   width="800"
   height="480"
@@ -282,6 +282,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
