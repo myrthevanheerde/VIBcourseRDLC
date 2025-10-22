@@ -61,8 +61,8 @@ This is the @edition edition of this workshop, jointly organised by your organis
 [Watch on YouTube](https://www.youtube.com/shorts/WAF7Z7KssQY)
 
 !?[Watch on YouTube](https://www.youtube.com/embed/WAF7Z7KssQY)
+??[Watch on YouTube](https://www.youtube.com/watch?v=WAF7Z7KssQY)
 
- <iframe width="800" height="450" src="(https://www.youtube.com/embed/WAF7Z7KssQY)" frameborder="0" allowfullscreen></iframe> -->
 
 <img src="./images/globes/41920.jpg" width="350" align="center"/>
 
@@ -269,6 +269,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
