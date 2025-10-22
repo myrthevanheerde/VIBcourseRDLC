@@ -58,9 +58,6 @@ This is the @edition edition of this workshop, jointly organised by your organis
 
 > “Welcome to the Introduction of the HemaFAIR project”
 
-[Watch on YouTube](https://www.youtube.com/shorts/WAF7Z7KssQY)
-
-
 !?[](https://www.youtube.com/watch?v=WAF7Z7KssQY)
 
 
@@ -269,6 +266,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
