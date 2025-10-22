@@ -60,7 +60,6 @@ This is the @edition edition of this workshop, jointly organised by your organis
 
 !?[](https://www.youtube.com/watch?v=WAF7Z7KssQY)
 
-
 <img src="./images/globes/41920.jpg" width="350" align="center"/>
 
 Example image to ilustrate the front page of the material. This image was [Designed by macrovector / Freepik](https://www.freepik.com/free-vector/globe-earth-world-icons-vector-white-black_10601425.htm#fromView=author&page=1&position=27&uuid=726a85e1-abc9-4f55-a242-bdb7cd5733f1)
@@ -79,6 +78,9 @@ This is the {{workshop_edition}} edition of this workshop, jointly organised by 
 - The first session (12 & 13 October 2023) is dedicated to Containers (Docker & Singularity) which are great tools for code portability and reproducibility of your analysis. You will learn how to use containers and how to build a container from scratch, share it with others and how to re-use and modify existing containers.
 
 The **presentation** which goes alongside this material can be found [here](https://docs.google.com/presentation/d/19XTgEvhuI9aHaE_nkaWphR4-HyRl0LjM/edit?usp=sharing&ouid=109714325185346343887&rtpof=true&sd=true).
+
+!?[](https://docs.google.com/presentation/d/e/2PACX-1vRANDOMID/embed?start=false&loop=false&delayms=3000)
+
 
 ## Proposed Schedule
 
@@ -266,6 +268,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
